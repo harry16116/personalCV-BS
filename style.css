@@ -1,0 +1,19 @@
+img {
+	width: 100%;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+
+
+
+
+a {
+	text-decoration: none;
+}
+
+
+.hello{
+  padding: 20px;
+  font-size: 30px;
+}
